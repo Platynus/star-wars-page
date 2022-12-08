@@ -1,4 +1,4 @@
-export type Spieces = {
+export type Speices = {
   count: string;
   next: string;
   previous: string;
